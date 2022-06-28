@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. PermutationsWithoutRepetition", "01. PermutationsWithoutRepetition.csproj", "{D762F1E7-3272-414D-92E9-FF8ED924916B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. PermutationsWithRepetition", "..\02. PermutationsWithRepetition\02. PermutationsWithRepetition.csproj", "{629934F7-A2CB-49A6-8E85-438D6DC3E911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Variations without Repetition", "..\03. Variations without Repetition\03. Variations without Repetition.csproj", "{3112AAA3-3582-4E13-969D-13B4C82E4D16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D762F1E7-3272-414D-92E9-FF8ED924916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D762F1E7-3272-414D-92E9-FF8ED924916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D762F1E7-3272-414D-92E9-FF8ED924916B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629934F7-A2CB-49A6-8E85-438D6DC3E911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629934F7-A2CB-49A6-8E85-438D6DC3E911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629934F7-A2CB-49A6-8E85-438D6DC3E911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629934F7-A2CB-49A6-8E85-438D6DC3E911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3112AAA3-3582-4E13-969D-13B4C82E4D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3112AAA3-3582-4E13-969D-13B4C82E4D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3112AAA3-3582-4E13-969D-13B4C82E4D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3112AAA3-3582-4E13-969D-13B4C82E4D16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
